@@ -1,2 +1,10 @@
-# auth-crud-node
-using node js, Express Js, Mongodb for creating this rest api
+## Node,Express and MongoDB Authentication and CRUD Operations
+
+#### Installation
+
+> npm install
+
+#### run developement server
+> npm start
+
+#### connect application to mongodb database before run
