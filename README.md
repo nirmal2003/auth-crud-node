@@ -4,7 +4,10 @@
 
 > npm install
 
-#### run developement server
+#### run server
 > npm start
+
+#### run dev server
+> npm run dev
 
 #### connect application to mongodb database before run
